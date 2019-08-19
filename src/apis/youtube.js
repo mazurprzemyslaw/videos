@@ -10,5 +10,3 @@ export default axios.create({
     key: KEY
   }
 });
-
-youtube.get();
